@@ -29,6 +29,7 @@ Arhan Ikram 170399300
 
 # Credits
 “Operating System Concepts”, 10th Edition; Abraham Silberschatz, Peter B.  Galvin,Greg Gagne; 2018; John Wiley and Sons.
+
 Sehra, Dr. Sukhjit. "Chapters 6-10 " CP386 Operating Systems, July 2020, Wilfrid Laurier University. Lecture.
 
 # License
